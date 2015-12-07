@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <title></title>
+
+
+<link rel="style" href="panel.css">
+  <link rel="stylesheet" href="jquerymobile.css">
+   <link rel="stylesheet" href="welcome.css">
+
+  <!-- jQuery and jQuery Mobile -->
+  <script src="jquery.js"></script>
+  <script src="jquerymobile.js"></script>
+
+ 
+</head>
+<body>
+<!-- Home -->
+<div data-role="page" id="home">
+
+
+
+	<div style="background:#230932" data-role="header" data-position="fixed">
+	 <h3>
+     HAND GESTURE RECOGNITION
+        </h3>
+		
+		
+	
+    </div>   <! end of header of home !>
+	
+  
+	
+		<div data-role="content" >
+		<div id="big_wrapper" style="padding:15px">
+        <h2>
+       HAND GESTURE RECOGNITION:
+        </h2>
+		<br>
+
+        <div style="">
+           <center><img style="width: 700px; height: 350px" src="pro/gest.jpg"></center>
+        </div>
+		<br>
+		
+		<h3>Introduction</h3>
+		<p>
+		This project aims at using image processing to recognize and display the letters made using hand gestures. Image processing is a form of signal processing in which the input is an image, such as a photograph or video frame. The output of image processing may be either an image or, a set of characteristics or parameters related to the image.<br>
+The steps involved in achieving this project are :-<br>
+•	Video acquisition<br>
+•	Use of filters<br>
+•	Comparing the acquired image with the database<br>
+•	Displaying the result<br>
+
+		</p><br>
+		
+		<h3>Video Acquisition</h3>
+		<p>The first stage of any vision system is the Video acquisition stage. After the Video has been obtained, various methods of processing can be applied to the Video to perform the many different vision tasks required. A video of 50 frames is captured in our project.
+		</p><br><br>
+		<div style="">
+           <center><img style="width: 300px; height: 200px" src="pro/gest1.png"></center>
+        </div>
+    
+	<h3>Use of filters</h3>
+	<p>
+	
+Filters are used on the acquired video in order to obtain only the movement of the hand so that the letter depicted by the hand movement can be recognized. The filters are applied to all the frames and the frames are added up to form the required image.
+ </p><br>
+ <h3>Comparing the processed image with the database</h3>
+	<p>
+
+The processed image is then compared to all the letters in the database one-by-one and the best result is then displayed on the screen. This process is done with the help of matlab software. 
+
+Hence with the help of Matlab software and the concepts of image processing the hand gestures can be recognized and the results can be displayed. In this project we have used image processing to recognize alphabets. It can be used to detect any kind of hand gesture provided a database is created for the detection of those hand gestures
+
+ </p><br>
+
+	
+	</div>
+	</div>
+	
+
+<p align="right" style="padding:20px"><a href="gest.html" rel="external"><img src="imag/up.png"></a></p>
+ 
+
+
+
+
+</div> <! end of home !>
+
+
+</body>
+</html>

@@ -1,0 +1,47 @@
+*
+{
+padding: 0px;
+margin:0px;
+}
+
+/* body  */
+
+body
+{
+
+width:100%;
+display:-webkit-box;
+-webkit-box-orient:vertical;
+background:#fff;
+font:14px "Trebuchet MS", Arial, Helvetica, sans-serif;
+background: #eee;
+line-height:22px;
+
+
+
+}
+html, html a {
+-webkit-font-smoothing: antialiased !important;
+}
+
+
+
+
+/* main_Section: the content par */
+#big_wrapper
+{
+border:5px solid;
+-webkit-border-radius: 3px;
+border: white 1px solid;
+background: white;
+margin-top:20px;
+margin-left:auto;
+margin-right:auto;
+max-width: 1000px;
+display: -webkit-box;
+height:100%;
+margin-bottom:20px;
+padding-bottom: 30px;
+-webkit-box-orient: vertical;  /*setting the content to be placed vertically one over the other */
+-webkit-box-flex:1; /* allows the website to be shrunk/grow horizontally..set 0 to override. */
+}
