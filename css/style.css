@@ -587,6 +587,23 @@ form input[type="text"]{
 form input[type="text"]:hover{
 	border: solid 2px #48C4AB;
 }
+form input[type="email"]{
+	width: 100%;
+	padding: 3.5% 0;
+	margin-bottom: 7%;
+	background:none;
+	color: #fff;
+	font-family: 'Asap', sans-serif;
+	font-size:18px;
+	outline: none;
+	font-weight:400;
+	text-indent: 38px;
+	border: solid 2px #fff;
+	border-radius: 5px
+}
+form input[type="email"]:hover{
+	border: solid 2px #48C4AB;
+}
 form textarea {
 	resize:none;
 	width: 100%;
