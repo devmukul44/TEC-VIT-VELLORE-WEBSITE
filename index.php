@@ -23,8 +23,8 @@ if(isset($_GET['err'])){
 		<meta name="distribution" content="Global" />
 		<meta name="robots" content="index, follow" />
 		<meta name="revisit-after" content="1 days"/>
-		<meta name="publisher" content="ASME INDIA, VIT VELLORE, MUKUL DEV , HIMANSHU GUPTA" />
-		<meta name="copyright" content="ASME INDIA 2016"/>
+		<meta name="publisher" content="TEC(the electronics club), VIT VELLORE, MUKUL DEV ," />
+		<meta name="copyright" content="TEC-VIT 2016"/>
 <link href='http://fonts.googleapis.com/css?family=Asap:400,700' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Karla:400,400italic,700' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
