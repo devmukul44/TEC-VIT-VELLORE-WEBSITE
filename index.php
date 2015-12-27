@@ -13,8 +13,18 @@ if(isset($_GET['err'])){
 <title>tecvit.in</title>
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta charset="utf-8" />
+		<meta name="language" content="en-us"/>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+		<meta name="description" content="TEC,the electronics club - VIT university,vellore WEBSITE. DEVELOPED BY- MUKUL DEV(DEVMUKUL44@GMAIL.COM)," />
+		<meta name="keywords" content="TEC,the electronics club,tec-vit,tecvit,tecvit.in,VIT university VELLORE,VIT VELLORE,MUKUL DEV,DEVMUKUL44@GMAIL.COM,MUKUL.DEV@OUTLOOK.COM,mukul.dev2013@vit.ac.in,MUKUL DEV VIT,MUKUL DEV VIT VELLORE,DEVMUKUL44, Web Designing" />
+		<meta name="distribution" content="Global" />
+		<meta name="robots" content="index, follow" />
+		<meta name="revisit-after" content="1 days"/>
+		<meta name="publisher" content="ASME INDIA, VIT VELLORE, MUKUL DEV , HIMANSHU GUPTA" />
+		<meta name="copyright" content="ASME INDIA 2016"/>
 <link href='http://fonts.googleapis.com/css?family=Asap:400,700' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Karla:400,400italic,700' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
