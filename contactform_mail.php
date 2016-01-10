@@ -1,8 +1,9 @@
 ﻿<?php
 $headers = "Content-Type: text/html; charset=UTF-8";
+$from = $_POST["email"];
 $to = "info@tecvit.in";
 //$to = "mukuldev.vit@gmail.com";
-$subject = "contact form email "."From: ".$_POST["email"];
+$subject = "query form email "."From: ".$from;
 
 $message ="First Name: ".$_POST["fname"]."\n";
 $message .="Last Name: ".$_POST["lname"]."\n";
