@@ -25,6 +25,7 @@ if(isset($_GET['err'])){
 		<meta name="revisit-after" content="1 days"/>
 		<meta name="publisher" content="TEC(the electronics club), VIT VELLORE, MUKUL DEV ," />
 		<meta name="copyright" content="TEC-VIT 2016"/>
+<link rel="icon" type="image/png" href="images/tecicon.png">
 <link href='http://fonts.googleapis.com/css?family=Asap:400,700' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Karla:400,400italic,700' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
