@@ -2,7 +2,6 @@
 $headers = "Content-Type: text/html; charset=UTF-8";
 $from = $_POST["email"];
 $to = "info@tecvit.in";
-//$to = "mukuldev.vit@gmail.com";
 $subject = "query form email "."From: ".$from;
 
 $message ="First Name: ".$_POST["fname"]."\n";
@@ -12,6 +11,7 @@ $message .="email: ".$_POST["email"]."\n";
 $message .="MESSAGE: ".$_POST["message"]."\n";
 
 //echo $message;
-mail($to,$subject,$message,$headers);
+//mail($to,$subject,$message,$headers);
+mail($to,$subject,$message,"From:".$from);
 header("location:index.php?err=sent");
 ?>
