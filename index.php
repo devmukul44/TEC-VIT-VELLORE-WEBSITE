@@ -397,7 +397,7 @@ This project aims at using image processing to recognize and display the letters
 								 <img src="images/electropedia15_r.jpg" class="img-responsive" alt="" /><div class="b-wrapper"><h5 class="b-animate b-from-left    b-delay03 "><img src="images/cross.png" class="img-responsive" alt=""/></h5>
 								<p class="b-animate b-from-right    b-delay03 "></p></div></a>
 							</div>
-						</div>			
+						</div>						
 							<div class="clearfix"></div>					
 					</div>
 		</div>		<div class="clearfix"></div>
