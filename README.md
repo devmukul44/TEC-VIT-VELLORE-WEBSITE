@@ -1,2 +1,2 @@
-# TEC-VIT-VELLORE-WEBSITE www.tecvit.in
-THE ELECTRONICS CLUB OF VIT (TEC-VIT) _VIT-VELLORE _WEBSITE 
+# TEC-VIT-VELLORE-WEBSITE (http://web.archive.org/web/20170912172141/http://tecvit.in/) (~~www.tecvit.in~~)
+THE ELECTRONICS CLUB OF VIT (TEC-VIT)
